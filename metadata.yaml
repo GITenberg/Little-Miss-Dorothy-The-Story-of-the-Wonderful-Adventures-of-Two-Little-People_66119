@@ -1,0 +1,35 @@
+_repo: Little-Miss-Dorothy-The-Story-of-the-Wonderful-Adventures-of-Two-Little-People_66119
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+creator:
+  author:
+    agent_name: James, Martha
+    alias: Doyle, Martha Claire MacGowan
+    birthdate: 1868
+    gutenberg_agent_id: '53642'
+    url: http://www.gutenberg.org/2009/agents/53642
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66119'
+  lccn: '01010010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- GITenberg
+title: 'Little Miss Dorothy: The Story of the Wonderful Adventures of Two Little People'
+url: http://www.gutenberg.org/ebooks/66119
